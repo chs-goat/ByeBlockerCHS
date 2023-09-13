@@ -8,6 +8,7 @@ Name inspired by Zek-c
 Tacogamerman's discord: 
 https://discord.gg/BMxe6D9CKv
 
+Please follow these steps because this will eventually be blocked. 
 How to recreate your own copy, incase this one goes down.
 
 1. Sign up for Netlify/Codepen/Render/Other
